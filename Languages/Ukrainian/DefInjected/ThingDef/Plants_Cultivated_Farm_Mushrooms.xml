@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_Plant_Timbercap.label>гриб дерев'яник</VPE_Plant_Timbercap.label>
+  <VPE_Plant_Timbercap.description>Коричневий гриб із короткою, твердою ніжкою. При збиранні дає невелику кількість деревини.</VPE_Plant_Timbercap.description>
+
+  <VPE_Plant_Healtruffle.label>лікувальний труфель</VPE_Plant_Healtruffle.label>
+  <VPE_Plant_Healtruffle.description>Повільно зростаючий гриб який отримує поживні речовини з газів що утворюються під час гниття істот поблизу. При збиранні ви отримаєте рослинні ліки. Проте, вирощування досить клопітке та неприємне. </VPE_Plant_Healtruffle.description>
+
+  <VPE_Plant_Stinker.label>гриб смердючка</VPE_Plant_Stinker.label>
+  <VPE_Plant_Stinker.description>Маленький, швидкозростаючий гриб, який завдяки незвичайному хімічному процесу виділяє гнилий сморід. Незважаючи на його жахливий запах, цей гриб їстівний. Він може рости при будь якій температурі, але при освітленість не вище середнього рівню.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt;На відміну від інших грибів, "смержючка" може витримувати яскравість світла до 50%, наприклад, смолоскип.</VPE_Plant_Stinker.description>
+
+  <VPE_Plant_Blisscap.label>гриб щастявик</VPE_Plant_Blisscap.label>
+  <VPE_Plant_Blisscap.description>Довгий, світло-блакитний гриб. Споживання викликає прилив неймовірного щастя та сонливість. Підвищує психічну чутливість, а також як кажуть хіпі: "дає можливість зазирнути в майбутнє".\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; На відміну від інших грибів та рослин, щастявик не вразливий до освітленості, але ростиме лише в день.</VPE_Plant_Blisscap.description>
+
+  <VPE_Plant_Lullabloom.label>гриб колисковник</VPE_Plant_Lullabloom.label>
+  <VPE_Plant_Lullabloom.description>Зелений гриб, що випускає незвичайні спори, які при вдиханні, викликають заспокоєння і відчуття конфорту під час сну. Кращий вибір для прикраси в горщику поруч з ліжком.\n\n&lt;color=#E5E54C&gt;Ігровий ефект:&lt;/color&gt; Скасовує емоцію "порушений сон"\nПрацює з ванільними ліжками та модами Vanilla Furniture Expanded.</VPE_Plant_Lullabloom.description>
+
+  <VPE_Plant_Bileceps.label>м'ясо-гриб</VPE_Plant_Bileceps.label>
+  <VPE_Plant_Bileceps.description>Особливий гриб, схожий на корал. Росте завдяки поглинання поживних речовин з трупної жовчі. Його химерний вигляд та умови росту мало бентежать голодних волоцюг, які тільки й мріють про шматочок м'яса, адже смак та будова м'ясо-гриба дійсно схожі на м'ясо.</VPE_Plant_Bileceps.description>
+
+  <VPE_Plant_Glowcap.label>світлогриб</VPE_Plant_Glowcap.label>
+  <VPE_Plant_Glowcap.description>Маленький, печерний гриб. Його запах нестерпний - але смак, після того як гриб підсмажити, на диво приємний. Він освітлює область навколо себе, проте недостатньо яскраво, для того, щоб дати ріст іншим рослинам.</VPE_Plant_Glowcap.description>
+
+  <VPE_Plant_Redcap.label>червоногриб</VPE_Plant_Redcap.label>
+  <VPE_Plant_Redcap.description>Культурний вид гриба з гарною червоною шапкою. Він дійсно красивий!</VPE_Plant_Redcap.description>
+
+  <VPE_Plant_Zapcap.label>електрогриб</VPE_Plant_Zapcap.label>
+  <VPE_Plant_Zapcap.description>Великий, схожий на бульбашку гриб, який відомий своєю здатністю генерувати невелику кількість електроенергії під час зростання безпосередньо на проводах. У разі короткого замикання, електрогриб спричинить більше шкоди від цього.</VPE_Plant_Zapcap.description>
+
+  <VPE_Building_Zapcap.label>електрогриб</VPE_Building_Zapcap.label>
+  <VPE_Building_Zapcap.description>Великий, схожий на бульбашку гриб, який відомий своєю здатністю генерувати невелику кількість електроенергії під час зростання безпосередньо на проводах. У разі короткого замикання, електрогриб спричинить більше шкоди від цього.</VPE_Building_Zapcap.description>
+
+  <VPE_Plant_Thermoregulus.label>термогриб</VPE_Plant_Thermoregulus.label>
+  <VPE_Plant_Thermoregulus.description>Окультурений вид термогриба є пристосований для вирощування в горщиках та невразливий до сонячного світла. Після стадії росту, термогриб нагріває, або охолоджує повітря створюючи ідеальні умови для свого існування, близько 16°C.</VPE_Plant_Thermoregulus.description>
+
+  <VPE_Plant_Foampuffer.label>піногриб</VPE_Plant_Foampuffer.label>
+  <VPE_Plant_Foampuffer.description>Бридкий, сірий гриб. Від нього смердить лайном муфало перемішаним з сечюю того ж муфало. Проте, піногриб має ще одну особливість, стиглим він вибухає при контакті з вогнем, і розбризкує рідину яка ефективно гасить вогонь.</VPE_Plant_Foampuffer.description>
+
+  <VPE_Plant_MycothreadMushroom.label>міконитковий гриб</VPE_Plant_MycothreadMushroom.label>
+  <VPE_Plant_MycothreadMushroom.description>Міконитковий гриб протягом багатьох століть вирощують підземні колонії, оскільки він виділяє густу, але гнучку тканину, схожу на бавовну. Незважаючи на те, що він дуже довго росте і вмирає при будь-якому контакті зі світлом, для деяких колоній це єдиний надійний спосіб отримання якісних тканин.</VPE_Plant_MycothreadMushroom.description>
+
+
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Vanilla Plants Expanded - Українською</name>
+  <author>oleksandr</author>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <packageId>oleksandr.VanillaPlantsExpandedUA</packageId>
+  <description></description>
+  <loadAfter>
+    <li>VanillaExpanded.VPlantsE</li>
+	<li>VanillaExpanded.VPlantsEMore</li>
+	<li>VanillaExpanded.VPlantsEMushrooms</li>
+	<li>VanillaExpanded.VPlantsESucculents</li>
+  </loadAfter>
+</ModMetaData>	

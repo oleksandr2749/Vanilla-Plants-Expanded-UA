@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_AquaticGrowingZone>Зона вирощуння на воді</VCE_AquaticGrowingZone>
+  <VCE_AquaticGrowingZoneDesc>Create a zone where your colonists will try to grow aquatic plants. Aquatic plants ignore terrain fertility but take a very long time to sow and harvest.\n\nThese zones can't be placed on oceanic (salty) water.</VCE_AquaticGrowingZoneDesc>
+
+  <VCE_SandyGrowingZone>Зона вирощуння на піску</VCE_SandyGrowingZone>
+  <VCE_SandyGrowingZoneDesc>Create a zone where your colonists will try to grow sandy terrain plants. Sand plants ignore terrain fertility but take a very long time to sow and harvest.</VCE_SandyGrowingZoneDesc>
+
+  <VCE_NotInEquator>Не в екваторіальному регіоні (на цій планеті, нижче {0} широти). Росте нормально.</VCE_NotInEquator>
+  <VCE_InEquator>В екваторіальному регіоні зростання на 30% швидше.</VCE_InEquator>
+
+  <VCE_NeedsShade>Ця рослина повинна рости в тіні: на відкритому повітрі, але під дахом.</VCE_NeedsShade>
+
+  <VCE_Pollinated>Пасіка знайдена неподалік</VCE_Pollinated>
+  <VCE_NotPollinated>В радіусі 6 клітин не знайдено жодної пасіки</VCE_NotPollinated>
+
+  <VCE_CarrotsNearby>Поруч посаджена морква: {0}/100</VCE_CarrotsNearby>
+  <VCE_BeansNearby>Поруч посаджена стручкова квасоля: {0}/100</VCE_BeansNearby>
+
+  <VCE_StuntedGrowthFertility>Зростання сповільнене через некам'янистий грунт</VCE_StuntedGrowthFertility>
+  <VCE_StoppedGrowthFertility>Зростання неможливе через занадто родючий ґрунт</VCE_StoppedGrowthFertility>
+
+  <VCE_WaterNearby>Водойма поблизу перешкоджає зростанню цієї рослини</VCE_WaterNearby>
+  <VCE_NoWaterNearby>Відсутність поблизу водойми перешкоджає зростанню цієї рослини</VCE_NoWaterNearby>
+
+  <VCE_NoSeaTilesNearby>Занадто далеко від моря, немає додаткової швидкості зростання</VCE_NoSeaTilesNearby>
+  <VCE_SeaTilesNearby>{0} клітин моря поблизу, що дає {0}% пришвидшення зростання</VCE_SeaTilesNearby>
+
+
+</LanguageData>

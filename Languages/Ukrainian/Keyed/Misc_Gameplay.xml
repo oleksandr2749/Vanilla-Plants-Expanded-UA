@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Various -->
+
+  <VCE_PlumsDrying>Сушіння слив</VCE_PlumsDrying>
+  <VCE_PlumsCurrentlyFrozen>Ці сливи заморожені, а тому не можуть бути засушаться на чорнослив</VCE_PlumsCurrentlyFrozen>
+  <VCE_PlumsCurrentlyRefrigerated>Ці сливи зберігаються в холодильнику, а тому повільніше сушаться на чорнослив (висихає в {0})</VCE_PlumsCurrentlyRefrigerated>
+  <VCE_PlumsDryingCorrectly>Ці сливи сушаться на чорнослив (сушаться в {0}))</VCE_PlumsDryingCorrectly>
+
+
+
+
+</LanguageData>

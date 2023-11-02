@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Growing -->
+
+  <VPE_HarvestMushroom.label>зібрати врожай грибів</VPE_HarvestMushroom.label>
+  <VPE_HarvestMushroom.verb>зібрати врожай грибів</VPE_HarvestMushroom.verb>
+  <VPE_HarvestMushroom.gerund>збирає врожай грибів</VPE_HarvestMushroom.gerund>
+
+  <VPE_SowMushroom.label>посіяти гриби</VPE_SowMushroom.label>
+  <VPE_SowMushroom.verb>посіяти гриби</VPE_SowMushroom.verb>
+  <VPE_SowMushroom.gerund>сіє гриби</VPE_SowMushroom.gerund>
+
+
+</LanguageData>
